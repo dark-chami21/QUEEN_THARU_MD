@@ -15,7 +15,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*QUEEN THARU SONG DOWNLOADER*
+*QUEEN THARU SONG DOWNLOADER 🎵⬇️*
 
 title: ${data.title}
 description: ${data.description}
@@ -58,7 +58,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*QUEEN THARU VIDEO DOWNLOADER*
+*QUEEN THARU VIDEO DOWNLOADER 🎬⬇️*
 
 title: ${data.title}
 description: ${data.description}
